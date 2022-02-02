@@ -9,16 +9,15 @@ body {
   width: 100%;
   background: url('https://images.theconversation.com/files/283650/original/file-20190711-173325-1oj4n2t.jpg') center;
   background-size: cover;
-  z-index: 1;
+
 }
 
 .kubik{
   width: 300px;
   height: 300px;
-  margin-top: 200px;
+  margin-top: 220px;
   background:  pink;
-  position: relative;
+  position: fixed;
   display: inline-block;
   border: 1px;
-  z-index: 2;
 }
